@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:10:50.267Z",
+  "generated_at": "2026-09-28T15:03:30.721Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -102,6 +102,19 @@
       "path": "problems/0008-calculate-2x2-matrix-inverse",
       "first_solved_at": "2026-09-28T14:10:49.451Z",
       "last_pushed_at": "2026-09-28T14:10:49.451Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-28T15:03:27.686Z",
+      "last_pushed_at": "2026-09-28T15:03:27.686Z",
       "language": "python",
       "lines": 27
     }
