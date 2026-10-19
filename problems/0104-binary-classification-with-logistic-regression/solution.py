@@ -22,5 +22,5 @@ def predict_logistic(X: np.ndarray, weights: np.ndarray, bias: float) -> np.ndar
 		pred = 1 if prob >= 0.5 else 0
         result.append(pred)
 	
-	return np.array(result)
+	return result
 
